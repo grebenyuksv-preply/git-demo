@@ -1,0 +1,16 @@
+.user-profile {
+	width: 700px;
+	overflow: hidden;
+	border: 1px solid black;
+	white-space: nowrap;
+	padding: 10px;
+}
+
+.input-field {
+	width: 90%;
+	margin-bottom: 10px;
+}
+
+.input-field .input {
+	width: 80%;
+}
